@@ -1,0 +1,3 @@
+module/core/entity/User.java
+ module.core.entity.User
+ module.core.entity.User$Builder

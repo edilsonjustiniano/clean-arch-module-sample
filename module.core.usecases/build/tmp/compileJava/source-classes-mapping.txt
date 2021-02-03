@@ -1,0 +1,17 @@
+module/core/usecase/core/UserBuilder.java
+ module.core.usecase.core.UserBuilder
+module/core/usecase/ports/UpdateUser.java
+ module.core.usecase.ports.UpdateUser
+module/core/usecase/ports/model/UserDto.java
+ module.core.usecase.ports.model.UserDto
+ module.core.usecase.ports.model.UserDto$UserDtoBuilder
+module/core/usecase/ports/CreateUser.java
+ module.core.usecase.ports.CreateUser
+module/core/usecase/core/createuser/CreateUserService.java
+ module.core.usecase.core.createuser.CreateUserService
+module/core/usecase/ports/ReadUser.java
+ module.core.usecase.ports.ReadUser
+module/core/usecase/ports/DeleteUser.java
+ module.core.usecase.ports.DeleteUser
+module/core/usecase/gateways/UserDataProvider.java
+ module.core.usecase.gateways.UserDataProvider

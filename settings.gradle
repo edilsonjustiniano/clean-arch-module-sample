@@ -1,0 +1,6 @@
+rootProject.name = 'module-project'
+include 'module.core.entities'
+include 'module.core.usecases'
+include 'module.dataproviders'
+include 'module.deliveries'
+

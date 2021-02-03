@@ -1,0 +1,16 @@
+module/delivery/rest/impl/UserApiBuilder.java
+ module.delivery.rest.impl.UserApiBuilder
+module/delivery/rest/api/UserRequest.java
+ module.delivery.rest.api.UserRequest
+ module.delivery.rest.api.UserRequest$UserRequestBuilder
+module/delivery/config/ModuleBeansConfig.java
+ module.delivery.config.ModuleBeansConfig
+module/delivery/ModuleApplication.java
+ module.delivery.ModuleApplication
+module/delivery/rest/impl/UserApiImpl.java
+ module.delivery.rest.impl.UserApiImpl
+module/delivery/rest/api/UserResponse.java
+ module.delivery.rest.api.UserResponse
+ module.delivery.rest.api.UserResponse$UserResponseBuilder
+module/delivery/rest/api/UserApi.java
+ module.delivery.rest.api.UserApi

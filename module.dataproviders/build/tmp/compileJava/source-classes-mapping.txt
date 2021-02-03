@@ -1,0 +1,11 @@
+module/dataprovider/memory/MemoryUserDataProviderImpl.java
+ module.dataprovider.memory.MemoryUserDataProviderImpl
+module/dataprovider/UserEntity.java
+ module.dataprovider.UserEntity
+ module.dataprovider.UserEntity$UserEntityBuilder
+module/dataprovider/aurora/AuroraUserDataProviderImpl.java
+ module.dataprovider.aurora.AuroraUserDataProviderImpl
+module/dataprovider/aurora/AuroraUserRepository.java
+ module.dataprovider.aurora.AuroraUserRepository
+module/dataprovider/aurora/config/DBConfig.java
+ module.dataprovider.aurora.config.DBConfig
